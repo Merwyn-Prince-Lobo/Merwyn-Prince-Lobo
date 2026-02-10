@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Merwyn Prince Lobo</h1>
+
+<p align="center">
+  IoT • Cloud • AR/VR • Cybersecurity
+</p>
+
+<p align="center">
+  <a href="https://Merwyn-Prince-Lobo.github.io/premium-profile/">
+    <img src="https://img.shields.io/badge/Open%20Interactive%20Portfolio-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
