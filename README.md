@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Merwyn-Prince-Lobo  
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/merwyn-prince-lobo-51ab4533a/
 
 ---
 
