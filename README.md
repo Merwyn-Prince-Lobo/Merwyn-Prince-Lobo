@@ -13,7 +13,8 @@
 ## 🚀 About Me
 
 - 🔐 Interested in cybersecurity & system-level security  
-- 🤖 Working with robotics simulation & middleware  
+- 🤖 Working with robotics simulation & middleware
+- 📚 Learning ML 
 - 🕶 Exploring AR/VR development & 3D environments  
 - ⚙️ Comfortable with low-level programming & Linux systems  
 - 🧠 Always learning by building  
