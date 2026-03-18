@@ -4,7 +4,7 @@
   <b>IoT • Robotics • AR/VR • Cybersecurity</b>
 </p>
 
-<p align="center">
+<p align="center"> 
   Building intelligent systems that merge hardware, software, and simulation.
 </p>
 
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <i>Systems. Simulation. Security.</i>
+  <i>TINKER....Systems. Simulation. Security.</i>
 </p>
